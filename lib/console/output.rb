@@ -5,6 +5,7 @@
 
 require_relative "output/default"
 require_relative "output/serialized"
+require_relative "output/rewrite"
 require_relative "output/terminal"
 require_relative "output/null"
 
